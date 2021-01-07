@@ -11,3 +11,5 @@ Udemy course on Git
 Sample website with plenty of files for demos
 
 ## Deployment
+
+run git in your terminal
