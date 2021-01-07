@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jocke Wilen jwilen@student.hive.fi
 
 # THANKS
 
