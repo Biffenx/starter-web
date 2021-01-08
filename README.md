@@ -20,4 +20,4 @@ This is a simple web project, deploying can be done on any web server or even lo
 Please forj this respository and then issue Pul Request for me to review
 
 ### Copyright
-Copyright by jwilen
+Copyright by jwilen. All rights reserved
