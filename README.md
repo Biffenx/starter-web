@@ -1,6 +1,7 @@
 # Starter Web Project
 
-This repository is for showing how Git and GitHub work. Addinga line for rebasing example, Now we add some more to the file of README.md
+This repository is for showing how Git and GitHub work. Addinga line for rebasing example, Now we add some more to the file of README.md.
+Updating for emergency fix after stashing.
 
 ## Introduction
 Udemy course on Git, working on January 2021
